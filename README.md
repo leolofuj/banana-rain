@@ -48,3 +48,14 @@ This repository currently serves as a development portfolio and project showcase
 
 Additional technical material may be made available as the project evolves.# banana-rain
 2D arcade platform game developed with GDevelop by LeVSoft.
+
+
+<p align="center">
+  <img src="screenshots/opening_scr.png" width="45%">
+  <img src="screenshots/monkey_snake.png" width="45%">
+</p>
+
+<p align="center">
+  <img src="screenshots/monkey_eagle.png" width="45%">
+  <img src="screenshots/monkey_vine.png" width="45%">
+</p>
